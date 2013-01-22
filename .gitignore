@@ -1,0 +1,15 @@
+bin
+build
+include
+lib
+local
+man
+share
+Scripts
+_notes
+.Python
+*.pyc
+*~
+*.db
+.DS_Store
+*esproj
